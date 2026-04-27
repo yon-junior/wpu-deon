@@ -3,7 +3,10 @@ RENCANA LIBURAN WPU
 - JavaScript
   * ES6
   * Framework Javascript
+    ^ Vue
 - Struktur Data Dasar
 - PHP Frameworks
+  ^ Laravel
 - Interview
 - VLogs
+- Python
